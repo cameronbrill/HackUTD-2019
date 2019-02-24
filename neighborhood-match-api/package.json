@@ -1,0 +1,30 @@
+{
+  "name": "applicant-data-api",
+  "version": "1.0.0",
+  "description": "REST API for applicant data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaiscioch/neighborhood-match-api.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "NodeJS"
+  ],
+  "author": "Cameron Brill (https://github.com/gaiscioch)",
+  "bugs": {
+    "url": "https://github.com/gaiscioch/neighborhood-match-api/issues"
+  },
+  "homepage": "https://github.com/gaiscioch/neighborhood-match-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9"
+  }
+}
