@@ -9,7 +9,7 @@ Our project implements both a home-buyer side and a mortgage-seller side.
 
 The home-buyer is presented with a minimalist design questionaire in which they answer personality and preference based questions. Based on this input, the home-buyer is then matched with a neighborhood that best fits their results. The home-buyer can view this on a web-inbedded map, allowing for seamless, beautiful transition into their new community.
 
-On the mortgage-seller side, in which the mortgage-seller can view an aggregated risk-assesment per user depending on location, and other risk-assessment factors.They get a data visualization for exquisite viewing purposes.
+On the mortgage-seller side, in which the mortgage-seller can view an aggregated risk-assesment per user depending on location, and other risk-assessment factors. They get a data visualization for exquisite viewing purposes.
 
 
 ## How we built it
