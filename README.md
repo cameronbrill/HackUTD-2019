@@ -30,8 +30,6 @@ Staying awake!!
 
 Getting APIs to behave.
 
-OCR is a pain in the butt.
-
 Communication was an issue.
 
 ## Accomplishments that we're proud of
